@@ -1,4 +1,4 @@
-# 🚀 Gen AI-Based Data Profiling Tool
+# 🚀 This project is a modular framework for profiling structured data using Streamlit, LangChain, and GPT.
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
