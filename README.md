@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Gen AI-Based Data Profiling Tool
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
