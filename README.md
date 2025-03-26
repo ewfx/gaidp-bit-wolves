@@ -43,8 +43,6 @@ This project is a **Streamlit-based UI** powered by **LangChain and OpenAI GPT**
 - ✍️ Generate new validation rules using natural language prompts via GPT
 - 📥 Download a validated dataset with issues highlighted
 
-
-
 ---
 
 ## 🛠️ How We Built It
@@ -86,4 +84,4 @@ streamlit run "genai_data_profiling.py"
 
 ## 👥 Team: Bit Wolves
 - **Balaji Rajan T S** - https://github.com/tsbr007 | https://www.linkedin.com/in/balaji-rajan/
-- **VijayKanth Veerayan** - https://www.linkedin.com/in/vijaykanth-veeraiyan/
+- **Vijaykanth Veeraiyan** - https://www.linkedin.com/in/vijaykanth-veeraiyan/

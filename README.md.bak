@@ -1,5 +1,7 @@
 # 🚀 This project is a modular framework for profiling structured data using Streamlit, LangChain, and GPT.
 
+# Team :  'Bit Wolves'
+
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
@@ -84,4 +86,4 @@ streamlit run "genai_data_profiling.py"
 
 ## 👥 Team: Bit Wolves
 - **Balaji Rajan T S** - https://github.com/tsbr007 | https://www.linkedin.com/in/balaji-rajan/
-- **VijayKanth Veerayan** - https://www.linkedin.com/in/vijaykanth-veeraiyan/
+- **Vijaykanth Veeraiyan** - https://www.linkedin.com/in/vijaykanth-veeraiyan/
