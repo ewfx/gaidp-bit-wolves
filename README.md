@@ -19,7 +19,7 @@
 A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
 
 ## 🎥 Demo
-check root folder
+check  folder - https://github.com/ewfx/gaidp-bit-wolves/blob/main/artifacts/demo/BitWolves-Demo.mp4
 
 ![alt text](image.png)
 
