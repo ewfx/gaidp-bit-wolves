@@ -1,0 +1,1 @@
+Screenshots were taken at various stages of development to bring accuracy
